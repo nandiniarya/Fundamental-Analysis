@@ -22,15 +22,15 @@ This project presents a real-time, AI-driven dashboard built with Streamlit, whi
 
 ## How to Run
 1. Install Packages:
-```bash
+
 pip install streamlit yfinance
 
-2. 🚀 Run Ollama (to start Mistral)
+3. 🚀 Run Ollama (to start Mistral)
 bash
 Copy
 Edit
 ollama run mistral
-3. ▶️ Launch Streamlit App
+4. ▶️ Launch Streamlit App
 bash
 Copy
 Edit
