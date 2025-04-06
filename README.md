@@ -35,7 +35,7 @@ Launch App:
 bash
 Copy
 streamlit run your_filename.py
-The dashboard will open in your browser. Input any valid stock ticker to begin. #*
+The dashboard will open in your browser. Input any valid stock ticker to begin. ##*
 
 Challenges Faced
 One of the primary challenges encountered during the development of this project was the incomplete or inconsistent financial data available through the Yahoo Finance API. For some companies, key financial metrics such as EBIT, invested capital, or operating cash flow were missing or reported under different naming conventions, which necessitated robust exception handling and fallback logic in the code. This issue affected the accuracy of certain financial ratios and sometimes led to "N/A" outputs, reducing the completeness of the analysis.
