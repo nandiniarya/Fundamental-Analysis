@@ -3,6 +3,9 @@
 ## Introduction
 This project presents a real-time, AI-driven dashboard built with Streamlit, which allows users to evaluate any public company's financial health by simply entering a stock ticker. It combines fundamental ratio analysis with AI-generated investment insights, bridging finance and machine learning for smarter investing. #*
 
+![image](https://github.com/user-attachments/assets/47af1352-07a0-4871-af17-66698c800ee2)
+
+
 ## Tech Stack & Tools
 **Frontend**: Streamlit (Python)  
 **Backend**: Yahoo Finance API (via yfinance)  
@@ -19,6 +22,9 @@ This project presents a real-time, AI-driven dashboard built with Streamlit, whi
 - Uses Mistral to provide an investment verdict (Buy / Hold / Sell)
 - Adds reasoning for transparency  
 🧠 **No Finance Knowledge Required**: AI simplifies interpretation for beginners #*
+
+![image](https://github.com/user-attachments/assets/cdfd965e-652f-4330-b98d-fca1ba8bdffb)
+
 
 ## How to Run
 1. Install Packages:
@@ -39,6 +45,7 @@ The dashboard will open in your browser. Input any valid stock ticker to begin!
 
 
 
+![image](https://github.com/user-attachments/assets/48377b29-7053-4b46-b268-d11e88cd6b12)
 
 
 
